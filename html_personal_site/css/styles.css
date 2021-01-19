@@ -15,10 +15,10 @@ hr {
   border-style: none;
   border-top: dotted;
   border-color: grey;
-  border-width: 5px;
-  width: 5%;
+  border-width: 100%;
+  width: 100%;
 }
 
 a,a:visited {
-  color: red;
+  color: purple;
 }
